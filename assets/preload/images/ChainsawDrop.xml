@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ChainsawDrop.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ChainsawDrop0000" x="1" y="1" width="477" height="257" frameX="0" frameY="-9" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0001" x="1" y="1" width="477" height="257" frameX="0" frameY="-9" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0002" x="479" y="1" width="434" height="321" frameX="-15" frameY="0" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0003" x="479" y="1" width="434" height="321" frameX="-15" frameY="0" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0004" x="914" y="1" width="363" height="397" frameX="-26" frameY="-82" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0005" x="914" y="1" width="363" height="397" frameX="-26" frameY="-82" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0006" x="1278" y="1" width="504" height="205" frameX="-22" frameY="-318" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0007" x="1278" y="1" width="504" height="205" frameX="-22" frameY="-318" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0008" x="1" y="399" width="508" height="187" frameX="-25" frameY="-324" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0009" x="1" y="399" width="508" height="187" frameX="-25" frameY="-324" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0010" x="510" y="399" width="507" height="194" frameX="-29" frameY="-322" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0011" x="510" y="399" width="507" height="194" frameX="-29" frameY="-322" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0012" x="1018" y="399" width="508" height="187" frameX="-31" frameY="-324" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0013" x="1018" y="399" width="508" height="187" frameX="-31" frameY="-324" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0014" x="1018" y="399" width="508" height="187" frameX="-31" frameY="-324" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0015" x="1018" y="399" width="508" height="187" frameX="-31" frameY="-324" frameWidth="539" frameHeight="523"/>
+	<SubTexture name="ChainsawDrop0016" x="1018" y="399" width="508" height="187" frameX="-31" frameY="-324" frameWidth="539" frameHeight="523"/>
+</TextureAtlas>

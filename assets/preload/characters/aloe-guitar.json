@@ -1,0 +1,232 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AloeGuitarIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AloeGuitarSingLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AloeGuitarSingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				57
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AloeGuitarSingUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AloeGuitarSingRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				11
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "AloeGuitarLeft0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-2
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "AloeGuitarDown0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				72
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "AloeGuitarUp0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				22
+			],
+			"anim": "singMID",
+			"fps": 24,
+			"name": "AloeGuitarMiddle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "AloeGuitarRight0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				12
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "AloeGuitarLeftMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-2
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "AloeGuitarDownMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				72
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "AloeGuitarUpMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				11
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "AloeGuitarRightMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				21
+			],
+			"anim": "singMIDmiss",
+			"fps": 24,
+			"name": "AloeGuitarMiddleMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				4
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF Guitar HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				40
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				0
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "AloeGuitarDodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				57
+			],
+			"anim": "guitar trans",
+			"fps": 24,
+			"name": "Guitar Transition",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CoolGuitar_Aloe_Assets2",
+	"position": [
+		0,
+		305
+	],
+	"healthicon": "aloe",
+	"flip_x": true,
+	"healthbar_colors": [
+		239,
+		113,
+		177
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				6
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KoroneLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-68
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KoroneDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				42
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KoroneUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				8
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KoroneRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "KoroneIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "KoroneIdle",
+			"indices": [9,10,11,12]
+		},
+		{
+			"offsets": [
+				130,
+				210
+			],
+			"loop": false,
+			"anim": "attack",
+			"fps": 24,
+			"name": "KoroneChainsawAttack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				347,
+				27
+			],
+			"loop": false,
+			"anim": "punch",
+			"fps": 24,
+			"name": "KoroneFalconPunch",
+			"indices": []
+		},
+		{
+			"offsets": [
+				200,
+				30
+			],
+			"loop": false,
+			"anim": "prepunch",
+			"fps": 24,
+			"name": "KoronePrePunch",
+			"indices": []
+		},
+		{
+			"offsets": [
+				278,
+				29
+			],
+			"loop": true,
+			"anim": "windUP",
+			"fps": 24,
+			"name": "KoronePunchWindUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "punchAfter",
+			"loop": false,
+			"name": "afterpunchnaim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Korone",
+	"position": [
+		20,
+		80
+	],
+	"healthicon": "doog",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		209,
+		94
+	],
+	"camera_position": [
+		-280,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

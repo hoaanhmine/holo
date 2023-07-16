@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["DOOG", "doog", [255,209,94]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "HoloFunk",
+	"startUnlocked": true,
+	"difficulties": "Hard",
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
